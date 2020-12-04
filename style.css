@@ -1,0 +1,22 @@
+body {
+  background-color: #D9CA8D;
+  color: darkslategrey;
+  font-family: "Cinzel", sans-serif;
+  font-size: 1em;
+  font-weight: 600;
+}
+td {
+  border: 1px ivory solid;
+  margin: 3px;
+  height: 35px;
+  border-radius: 5px;
+  color: #9F3DB7;
+}
+h1 {
+  color: #73A199;
+  font-family: Texturina, serif;
+  text-align: center;
+}
+thead {
+  font-family: Texturina, serif;
+}
